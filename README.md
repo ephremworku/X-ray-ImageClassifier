@@ -22,19 +22,21 @@ The goal of this project is to accurately classify X-ray images into two categor
    
 You can find the dataset on the Bone_Fracture_Binary_Classification folder of this repository
 
-2. **Install Dependecies::**
    
-Make sure you have all the necessary libraries installed. You can use the requirements.txt file if provided, or manually install the dependencies listed in the notebook.
- ```bash
-pip install -r requirements.txt bash```
+3. **Install Dependencies:**
+
+Make sure you have all the necessary libraries installed. You can use the `requirements.txt` file if provided, or manually install the dependencies listed in the notebook.
+
+`pip install -r requirements.txt`
+
 
 
 After This, You Can Run The Notebook as the way you like
 
- **Issues and Contributions::**
+**Issues and Contributions:**
 
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue on this repository. Contributions are welcome!
 
-**License::**
+**License:**
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
