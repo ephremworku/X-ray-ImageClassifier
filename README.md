@@ -17,7 +17,7 @@ The goal of this project is to accurately classify X-ray images into two categor
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ephremworku/X-ray-ImageClassifier.git
-   cd xray-image-binary-classifier
+   cd X-ray-ImageClassifier
 2. **Dataset::**
    
 You can find the dataset on the Bone_Fracture_Binary_Classification folder of this repository
