@@ -18,6 +18,23 @@ The goal of this project is to accurately classify X-ray images into two categor
    ```bash
    git clone https://github.com/yourusername/xray-image-binary-classifier.git
    cd xray-image-binary-classifier
-1. **Download the dataset::**
+2. **Dataset::**
    
-   gGo to the Kaggle dataset page and download the data. Extract the files into the repository directory.
+You can find the dataset on the Bone_Fracture_Binary_Classification folder of this repository
+
+2. **Install Dependecies::**
+   
+Make sure you have all the necessary libraries installed. You can use the requirements.txt file if provided, or manually install the dependencies listed in the notebook.
+ ```bash
+pip install -r requirements.txt
+
+
+After This You Can Run The Notebook as a way you like
+
+ **Issues and Contributions::**
+
+If you encounter any issues or have suggestions for improvements, please feel free to open an issue on this repository. Contributions are welcome!
+
+**License::**
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
