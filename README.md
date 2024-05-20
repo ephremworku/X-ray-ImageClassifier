@@ -16,7 +16,7 @@ The goal of this project is to accurately classify X-ray images into two categor
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/xray-image-binary-classifier.git
+   git clone https://github.com/ephremworku/X-ray-ImageClassifier.git
    cd xray-image-binary-classifier
 2. **Dataset::**
    
