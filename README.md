@@ -26,10 +26,10 @@ You can find the dataset on the Bone_Fracture_Binary_Classification folder of th
    
 Make sure you have all the necessary libraries installed. You can use the requirements.txt file if provided, or manually install the dependencies listed in the notebook.
  ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt bash```
 
 
-After This You Can Run The Notebook as a way you like
+After This, You Can Run The Notebook as the way you like
 
  **Issues and Contributions::**
 
